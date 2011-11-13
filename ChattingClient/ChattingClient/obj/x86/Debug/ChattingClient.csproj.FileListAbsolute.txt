@@ -1,0 +1,22 @@
+c:\users\cao tran trong nghia\documents\visual studio 2010\Projects\ChattingClient\ChattingClient\bin\Debug\ChattingClient.exe.config
+c:\users\cao tran trong nghia\documents\visual studio 2010\Projects\ChattingClient\ChattingClient\bin\Debug\ChattingClient.exe
+c:\users\cao tran trong nghia\documents\visual studio 2010\Projects\ChattingClient\ChattingClient\bin\Debug\ChattingClient.pdb
+c:\users\cao tran trong nghia\documents\visual studio 2010\Projects\ChattingClient\ChattingClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\cao tran trong nghia\documents\visual studio 2010\Projects\ChattingClient\ChattingClient\obj\x86\Debug\ChattingClient.Properties.Resources.resources
+c:\users\cao tran trong nghia\documents\visual studio 2010\Projects\ChattingClient\ChattingClient\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\cao tran trong nghia\documents\visual studio 2010\Projects\ChattingClient\ChattingClient\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\cao tran trong nghia\documents\visual studio 2010\Projects\ChattingClient\ChattingClient\obj\x86\Debug\ChattingClient.exe
+c:\users\cao tran trong nghia\documents\visual studio 2010\Projects\ChattingClient\ChattingClient\obj\x86\Debug\ChattingClient.pdb
+c:\users\cao tran trong nghia\documents\visual studio 2010\Projects\ChattingClient\ChattingClient\obj\x86\Debug\ChattingClient.Form1.resources
+C:\Users\Cao Tran Trong Nghia\documents\visual studio 2010\Projects\ChattingClient\ChattingClient\obj\x86\Debug\ChattingClient.ChatForm.resources
+D:\Study\project\ChatProject\ChattingClient\ChattingClient\bin\Debug\ChattingClient.exe.config
+D:\Study\project\ChatProject\ChattingClient\ChattingClient\obj\x86\Debug\ChattingClient.exe
+D:\Study\project\ChatProject\ChattingClient\ChattingClient\obj\x86\Debug\ChattingClient.pdb
+D:\Study\project\ChatProject\ChattingClient\ChattingClient\bin\Debug\ChattingClient.exe
+D:\Study\project\ChatProject\ChattingClient\ChattingClient\bin\Debug\ChattingClient.pdb
+D:\Study\project\ChatProject\ChattingClient\ChattingClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Study\project\ChatProject\ChattingClient\ChattingClient\obj\x86\Debug\ChattingClient.Form1.resources
+D:\Study\project\ChatProject\ChattingClient\ChattingClient\obj\x86\Debug\ChattingClient.Properties.Resources.resources
+D:\Study\project\ChatProject\ChattingClient\ChattingClient\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Study\project\ChatProject\ChattingClient\ChattingClient\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Study\project\ChatProject\ChattingClient\ChattingClient\obj\x86\Debug\ChattingClient.Register.resources

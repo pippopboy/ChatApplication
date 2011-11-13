@@ -1,0 +1,22 @@
+C:\Users\TRONGNGHIA\Documents\Visual Studio 2010\Projects\OptionContract\Hosting\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TRONGNGHIA\Documents\Visual Studio 2010\Projects\OptionContract\Hosting\obj\x86\Debug\Hosting.Form1.resources
+C:\Users\TRONGNGHIA\Documents\Visual Studio 2010\Projects\OptionContract\Hosting\obj\x86\Debug\Hosting.Properties.Resources.resources
+C:\Users\TRONGNGHIA\Documents\Visual Studio 2010\Projects\OptionContract\Hosting\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TRONGNGHIA\Documents\Visual Studio 2010\Projects\OptionContract\Hosting\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TRONGNGHIA\Documents\Visual Studio 2010\Projects\OptionContract\Hosting\bin\Debug\Hosting.exe
+C:\Users\TRONGNGHIA\Documents\Visual Studio 2010\Projects\OptionContract\Hosting\bin\Debug\Hosting.pdb
+C:\Users\TRONGNGHIA\Documents\Visual Studio 2010\Projects\OptionContract\Hosting\bin\Debug\OptionContract.dll
+C:\Users\TRONGNGHIA\Documents\Visual Studio 2010\Projects\OptionContract\Hosting\bin\Debug\OptionContract.pdb
+C:\Users\TRONGNGHIA\Documents\Visual Studio 2010\Projects\OptionContract\Hosting\obj\x86\Debug\Hosting.exe
+C:\Users\TRONGNGHIA\Documents\Visual Studio 2010\Projects\OptionContract\Hosting\obj\x86\Debug\Hosting.pdb
+D:\Study\project\ChatProject\OptionContract\Hosting\obj\x86\Debug\Hosting.exe
+D:\Study\project\ChatProject\OptionContract\Hosting\obj\x86\Debug\Hosting.pdb
+D:\Study\project\ChatProject\OptionContract\Hosting\bin\Debug\Hosting.exe
+D:\Study\project\ChatProject\OptionContract\Hosting\bin\Debug\Hosting.pdb
+D:\Study\project\ChatProject\OptionContract\Hosting\bin\Debug\OptionContract.dll
+D:\Study\project\ChatProject\OptionContract\Hosting\bin\Debug\OptionContract.pdb
+D:\Study\project\ChatProject\OptionContract\Hosting\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Study\project\ChatProject\OptionContract\Hosting\obj\x86\Debug\Hosting.Form1.resources
+D:\Study\project\ChatProject\OptionContract\Hosting\obj\x86\Debug\Hosting.Properties.Resources.resources
+D:\Study\project\ChatProject\OptionContract\Hosting\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Study\project\ChatProject\OptionContract\Hosting\obj\x86\Debug\GenerateResource.write.1.tlog

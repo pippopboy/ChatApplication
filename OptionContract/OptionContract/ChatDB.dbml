@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ChatDB" Class="ChatDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=TRONGNGHIA-PC\SQLEXPRESS;Initial Catalog=ChatDB;Integrated Security=True;Pooling=False" SettingsObjectName="OptionContract.Properties.Settings" SettingsPropertyName="ChatDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.users" Member="users">
+    <Type Name="user">
+      <Column Name="userid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="username" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="password" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="avarta" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="user_Relation" Member="Relations" ThisKey="userid" OtherKey="Userid" Type="Relation" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Relations" Member="Relations">
+    <Type Name="Relation">
+      <Column Name="Relationid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="FriendID" Member="FriendId" Storage="_FriendID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Userid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="user_Relation" Member="user" ThisKey="Userid" OtherKey="userid" Type="user" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>
